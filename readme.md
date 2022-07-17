@@ -8,7 +8,9 @@
 <br/>
   Made with :coffee: and ❤️ by <b>Natalie Bravo</b>.
 <br/>
-<a href="whatsapp://send?phone=14384766790" class="float" target="_blank">
+  <a href="whatsapp://send?phone=14384766790" target="_blank">
+  <img alt="Whatsap - Mijail Piekarz" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+  </a>
 <i class="fa fa-whatsapp my-float"></i>
 </a>
 <p/>
